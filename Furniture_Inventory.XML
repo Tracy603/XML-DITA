@@ -1,0 +1,49 @@
+<xml? version=”1.0” encoding=”UTF-8” ?>
+
+<furniture>
+
+	<roomfloor=”Main Level”>
+
+		<room=”Living Room”>
+
+			<itemlist>2 Chairs, 1 Endtable, 1 Coffee Table, 1 Sofa Table, 4 Lamps, 1 Sofa, 1 Footstool</itemlist>
+
+		</room>
+
+		<room=”Dining Room”>
+
+			<itemlist>6 Chairs, 1 Dining Table, 2 Counter Chairs</itemlist>
+
+		</room>
+
+		<room=”Sun Room”>
+
+			<itemlist>2 Chairs, 2 Endtables, 1 Desk, 1 Marble Top Table, 2 Lamps, 1 Sofa, 1 Footstool</itemlist>
+
+		</room>
+
+</roomfloor>
+
+<roomfloor=”Second Level”>
+
+		<room=”Bedroom 1”>
+
+			<itemlist>1 Chair, 1 Full Bed, 1 Large Bureau, 1 Small Bureau, 2 Lamps, 2 End Tables</itemlist>
+
+		</room>
+
+		<room=”Bedroom 2”>
+
+			<itemlist>1 Chair, 2 Twin Beds, 1 Tall Bureau, 1 Desk, 1 Bookshelf, 3 Lamps, 2 End Tables</itemlist>
+
+		</room>
+
+		<room=”Bedroom 3”>
+
+			<itemlist>2 Chairs, 1 King Bed, 1 Man’s Bureau, 1 Woman’s Bureau, 4 Lamps, 3 End Tables, 1 Desk, 1 Desk Chair, 1 Bookshelf</itemlist>
+
+		</room>
+
+</roomfloor>
+
+</furniture>
